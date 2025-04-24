@@ -1,4 +1,4 @@
-# leetcode-Valid Anagram using cpp
+Valid Anagram using cpp
 
 class Solution {
 public:
